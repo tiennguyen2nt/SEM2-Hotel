@@ -1,0 +1,36 @@
+		Phần mềm quản lý nhà nghỉ
+		
+			
+	
+	Admin
+		1. Quản lý hóa đơn
+			Xem tất cả hóa đơn, + tìm kiếm + xem theo ngày, tuần tháng. năm.
+				a. Thêm hóa đơn
+				b. Sửa hóa đơn
+				c. xóa hóa đơn.
+		2. Quản lý phòng. 
+			Xem phòng còn trống, phòng bận, phòng đang ở trạng thái chờ (có người đặt trước). phòng cần dọn, cần sửa. phòng đang sửa chũa, đang dọn.
+		3. Quản lý dịch vụ
+			Có các dịch vụ nếu như được yêu cầu, sẽ đề ra khi khách hàng đặt phòng. 
+				 Gồm thêm sủa xóa dịch vụ. Có trạng thái hết dịch vụ (1, hoặc tấc cả các dịch vụ đang bận hết không có người làm trong khoảng thời gian nào đó)
+	
+	Lễ tân
+		Tạo hóa đơn(đặt phòng)
+			Hiện thị danh sách phòng theo trạng thái + Tìm kiếm phòng theo thời gian và loại phòng.
+				Tìm kiếm.
+					Trả về danh sách phòng đang trống, + gần hết thời gian. <1h
+						Chọn phòng. 
+							Hiện thị danh sách các dịch vụ
+							
+							
+		Trả phòng.
+			In hóa đơn(Gủi hóa đơn qua email)
+				Thông tin khách hàng.
+				Thời gian sử dụng và giá tiền
+				Các dịch vụ + giá tiền
+				
+					Tổng tiền:
+			
+				
+					
+			
